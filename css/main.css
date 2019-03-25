@@ -1,0 +1,12 @@
+body {
+        background-color: rgb(204, 204, 255);
+        font font-family: Helvetica,arial,sans serif;
+        text-align: center;
+        text-shadow: 6px 4px white;
+}
+
+h1 {
+        font-size: 5rem;
+        margin-top: 25px;
+        margin-bottom: 35px;
+}
