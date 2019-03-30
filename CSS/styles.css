@@ -1,19 +1,29 @@
 body {
-  color: rgb(13,13,13);
+  color: rgb(0,51,51);
   font-family:arial,helvetica,sans-serif;
   margin:0px;}
-h1,h2 {
+h1,h2,h3 {
   text-align: center;
  }
 h1{
     font-size: 4em;
 }
 h2{
-    font-size: 2em;
+    font-size: 3em;
   }
+h3{
+  font-size: 2em
+}
   img{
   display: flex;
   padding: 20px;
   margin: 0 auto;
-  border-radius: 130px;
+}
+p {
+  display:flex;
+  justify-content: center;
+  width: 70%;
+  margin: 10vh, 10vw;
+  font-size: 2em;
+  text-align: justify;
 }
