@@ -1,0 +1,19 @@
+body {
+  color: rgb(13,13,13);
+  font-family:arial,helvetica,sans-serif;
+  margin:0px;}
+h1,h2 {
+  text-align: center;
+ }
+h1{
+    font-size: 4em;
+}
+h2{
+    font-size: 2em;
+  }
+  img{
+  display: flex;
+  padding: 20px;
+  margin: 0 auto;
+  border-radius: 130px;
+}
