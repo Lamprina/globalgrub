@@ -1,4 +1,23 @@
 body {
+        background-color: rgb(204, 204, 255);
+        font font-family: Helvetica,arial,sans serif;
+        text-align: left;
+}
+
+h1 {
+        font-size: 5rem;
+        margin-top: 25px;
+        margin-bottom: 35px;
+        text-align: center;
+}
+
+greekdescription {
+        margin-left: 50px;
+        margin-right: 25px;
+        margin-top: 25px;
+}
+
+body {
   color: rgb(0,51,51);
   font-family:arial,helvetica,sans-serif;
   margin:0px;}
