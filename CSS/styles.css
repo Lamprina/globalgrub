@@ -21,9 +21,9 @@ h3{
 }
 p {
   display:flex;
-  justify-content: center;
+  align-items: space-around;
+  flex-direction: column;
   width: 70%;
-  margin: 10vh, 10vw;
   font-size: 2em;
   text-align: justify;
 }
