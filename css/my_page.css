@@ -1,7 +1,6 @@
 body {
         background-color: rgb(204, 204, 255);
-        font font-family: Helvetica,arial,sans serif;
-        text-align: left;
+        font font-family: Helvetica,arial;
 }
 
 h1 {
@@ -15,4 +14,8 @@ frenchdescription {
         margin-left: 50px;
         margin-right: 25px;
         margin-top: 25px;
+}
+
+p {
+      font-size: 1rem;
 }
