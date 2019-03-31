@@ -10,12 +10,8 @@ h1 {
         margin-bottom: 35px;
         text-align: center;
 }
-Aboutpage {
-  margin:0
-}
-
 h2,h3 {
-  text-align: left;
+  text-align: center;
  }
 }
 h2{
@@ -29,11 +25,15 @@ h3{
   padding: 20px;
   margin: 0 auto;
 }
-p.greekdescription {
+p {
   display: flex;
   justify-content: center;
-  margin-left: 60px;
-  margin-right: 60px;
   font-size: 1.5em;
   text-align: justify;
+}
+#left {
+   display:flex;
+   justify-content: flex-start;
+   font-size: 1.5em;
+   text-align: justify;
 }
