@@ -28,12 +28,15 @@ h3{
 p {
   display: flex;
   justify-content: center;
-  font-size: 1.5em;
   text-align: justify;
 }
 #left {
    display:flex;
    justify-content: flex-start;
-   font-size: 1.5em;
+   text-align: justify;
+}
+#left1 {
+   display:flex;
+   justify-content: flex-start;
    text-align: justify;
 }
