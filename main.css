@@ -14,13 +14,13 @@ h1 {
   margin: 0;
 }
 
-#container {
+#showcase {
   background-color: white;
   width: 90%;
   margin: auto;
 }
 
-#header {
+#main-header {
   background-color: white;
   color: teal;
   text-align: center;
@@ -55,14 +55,15 @@ h1 {
   float: right;
 }
 
-#h2{
+#h1{
+  text-align: right;
   text-transform: uppercase;
   letter-spacing: 0.2em;
 }
 
-#h3 {
+# {
   list-style-type: none;
-  text-align: left;
+  float: right;
 
 }
 
