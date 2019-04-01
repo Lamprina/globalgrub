@@ -1,0 +1,58 @@
+body {
+        background-color: rgb(204, 204, 255);
+        font font-family: Helvetica,arial;
+}
+
+h1 {
+        font-size: 5rem;
+        margin-top: 25px;
+        margin-bottom: 35px;
+        text-align: center;
+      }
+
+      img {
+
+  border-radius: 80px;
+
+}
+
+
+
+img.Kashmirichaigif.gif {border-radius: 50%}
+
+p {
+  text-align: center;
+}
+
+body {
+        background-color: rgb(204, 204, 255);
+        font font-family: Helvetica,arial,sans serif;
+        text-align: left;
+}
+
+h1 {
+        font-size: 5rem;
+        margin-top: 25px;
+        margin-bottom: 35px;
+        text-align: center;
+}
+h2,h3 {
+  text-align: center;
+ }
+}
+h2{
+    font-size: 3em;
+  }
+h3{
+  font-size: 2em
+}
+  img{
+  display: flex;
+  padding: 20px;
+  margin: 0 auto;
+}
+p {
+  display: flex;
+  justify-content: center;
+  text-align: justify;
+}
