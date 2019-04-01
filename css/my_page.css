@@ -1,0 +1,29 @@
+body {
+        background-color: rgb(204, 204, 255);
+        font font-family: Helvetica,arial;
+}
+
+h1 {
+        font-size: 5rem;
+        margin-top: 25px;
+        margin-bottom: 35px;
+        text-align: center;
+}
+
+frenchdescription {
+        margin-left: 50px;
+        margin-right: 25px;
+        margin-top: 25px;
+}
+
+p {
+      font-size: 1rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
